@@ -80,4 +80,4 @@ Python 3.10+ · pandas · pytest
 
 ---
 
-Marcus Vinicius Faria · CRM Ops & RevOps · [linkedin.com/in/mvcaf](https://www.linkedin.com/in/mvcaf/)
+Marcus Vinicius Faria · CRM Ops & RevOps · Brazil (Remote) · [linkedin.com/in/mvcaf](https://www.linkedin.com/in/mvcaf/)
